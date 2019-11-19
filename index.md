@@ -1,6 +1,8 @@
 
 [10.1](https://github.com/jakkapatchai/CPSC241_621/blob/master/10.1cpsc241.docx)
+
 [10.2](https://github.com/jakkapatchai/CPSC241_621/blob/master/10.2cpsc241.docx)
+
 [10.3](https://github.com/jakkapatchai/CPSC241_621/blob/master/10.3cpsc241.docx)
 
 ## linux
